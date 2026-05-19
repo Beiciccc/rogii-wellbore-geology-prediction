@@ -17,8 +17,12 @@ private/
 # Competition data and generated artifacts
 data/raw/*
 data/processed/*
+data/artifacts/*
 outputs/*
 models/*
+references/kaggle_public/
+kaggle_runs/
+submission.csv
 *.zip
 *.7z
 *.tar
@@ -28,4 +32,3 @@ models/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !outputs/.gitkeep
-
