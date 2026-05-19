@@ -1,0 +1,31 @@
+# Local environment
+.DS_Store
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Private credentials and local notes
+kaggle.json
+*.pem
+*.key
+PRIVATE*
+private/
+
+# Competition data and generated artifacts
+data/raw/*
+data/processed/*
+outputs/*
+models/*
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Keep directory placeholders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!outputs/.gitkeep
+
