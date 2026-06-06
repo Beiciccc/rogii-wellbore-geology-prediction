@@ -22,6 +22,7 @@ outputs/*
 models/*
 references/kaggle_public/
 kaggle_runs/
+kernels/
 submission.csv
 *.zip
 *.7z

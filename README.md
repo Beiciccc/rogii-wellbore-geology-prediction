@@ -25,5 +25,6 @@ Raw competition files are excluded from this repository.
 
 ## Status
 
-See [experiments/experiment_log.md](experiments/experiment_log.md) for experiment history and public leaderboard results.
+Current best public score: `8.131` from a Ridge artifact submission on 2026-06-06.
 
+See [experiments/experiment_log.md](experiments/experiment_log.md) for experiment history and public leaderboard results.
