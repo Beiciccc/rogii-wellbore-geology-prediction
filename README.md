@@ -25,6 +25,6 @@ Raw competition files are excluded from this repository.
 
 ## Status
 
-Current best public score: `7.713` from a Ridge artifact parameter submission on 2026-06-09.
+Current best public score: `7.574` from a SP45/Fleongg gated blend submission on 2026-06-09.
 
 See [experiments/experiment_log.md](experiments/experiment_log.md) for experiment history and public leaderboard results.
