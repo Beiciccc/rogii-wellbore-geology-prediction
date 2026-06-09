@@ -25,6 +25,6 @@ Raw competition files are excluded from this repository.
 
 ## Status
 
-Current best public score: `7.748` from a Ridge-SP projection submission on 2026-06-07.
+Current best public score: `7.713` from a Ridge artifact parameter submission on 2026-06-09.
 
 See [experiments/experiment_log.md](experiments/experiment_log.md) for experiment history and public leaderboard results.
