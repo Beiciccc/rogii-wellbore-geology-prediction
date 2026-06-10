@@ -25,6 +25,6 @@ Raw competition files are excluded from this repository.
 
 ## Status
 
-Current best public score: `7.566` from a Pilkwang Ridge PF blend/model-package submission on 2026-06-10.
+Current best public score: `7.565` from a Pixiux dual pipeline blend submission on 2026-06-10.
 
 See [experiments/experiment_log.md](experiments/experiment_log.md) for experiment history and public leaderboard results.
