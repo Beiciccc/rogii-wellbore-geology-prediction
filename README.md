@@ -25,6 +25,6 @@ Raw competition files are excluded from this repository.
 
 ## Status
 
-Current best public score: `7.540` from a Yaroslav SEL15 SP45/Fleongg submission on 2026-06-11.
+Current best public score: `7.524` from a fle3n ROGII v5 default submission on 2026-06-11.
 
 See [experiments/experiment_log.md](experiments/experiment_log.md) for experiment history and public leaderboard results.
