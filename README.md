@@ -25,6 +25,6 @@ Raw competition files are excluded from this repository.
 
 ## Status
 
-Current best public score: `7.510` from a shuaixu fle3n v5 reproduction submission on 2026-06-14.
+Current best public score: `7.172`, reached by the Aevion GPU route on 2026-07-04 and the Rokaiya PF/contact/gold route on 2026-07-08.
 
 See [experiments/experiment_log.md](experiments/experiment_log.md) for experiment history and public leaderboard results.
