@@ -25,6 +25,6 @@ Raw competition files are excluded from this repository.
 
 ## Status
 
-Current best public score: `7.172`, reached by the Aevion GPU route on 2026-07-04 and the Rokaiya PF/contact/gold route on 2026-07-08.
+Current best public score: `7.054`, reached by the Roman geology-aware ensembling route on 2026-07-11.
 
 See [experiments/experiment_log.md](experiments/experiment_log.md) for experiment history and public leaderboard results.
