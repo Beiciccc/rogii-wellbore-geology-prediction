@@ -25,6 +25,6 @@ Raw competition files are excluded from this repository.
 
 ## Status
 
-Current best public score: `7.054`, reached by the Roman geology-aware ensembling route on 2026-07-11.
+Current best public score: `7.044`, reached by the Iaztec tail-guarded model-package 0.005 route on 2026-07-15.
 
 See [experiments/experiment_log.md](experiments/experiment_log.md) for experiment history and public leaderboard results.
