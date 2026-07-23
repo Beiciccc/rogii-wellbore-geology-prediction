@@ -25,6 +25,6 @@ Raw competition files are excluded from this repository.
 
 ## Status
 
-Current best public score: `6.848`, reached by the deterministic MHA240 sep3 cap5 route on 2026-07-21.
+Current best public score: `6.716`, reached by the public P100 seed-ensemble frontier v12 rerun on 2026-07-22.
 
 See [experiments/experiment_log.md](experiments/experiment_log.md) for experiment history and public leaderboard results.
