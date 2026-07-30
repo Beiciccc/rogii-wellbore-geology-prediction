@@ -25,6 +25,6 @@ Raw competition files are excluded from this repository.
 
 ## Status
 
-Current best public score: `6.440`, reached by the A31 mean-preserving heel-to-toe tilt v12 rerun on 2026-07-23.
+Current best public score: `6.394`, reached by the A31/V34 A0.60/V0.40 fixed-version repeat on 2026-07-28.
 
 See [experiments/experiment_log.md](experiments/experiment_log.md) for experiment history and public leaderboard results.
